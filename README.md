@@ -81,7 +81,7 @@ I am a dedicated Computer Science Engineering student at Nirma University, passi
 </div>
 
 <div align="center">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth3282&theme=tokyonight&hide_border=true" alt="Top Languages">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth3282&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
 
 <div align="center">

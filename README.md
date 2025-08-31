@@ -66,7 +66,7 @@
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="Postman" height="25" src="images/postman.svg"></code>
+  <code><img title="Postman" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"></code>
 </p>
 
 <h3 align="center">Databases</h3>
@@ -79,8 +79,8 @@
 <p align="center">
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="REST API" height="25" src="images/api.png"></code>
-  <code><img title="Render" height="25" src="images/render.png"></code>
-  <code><img title="Vercel" height="25" src="images/vercel.png"></code>
+  <code><img title="Render" height="25" src="images/render.svg"></code>
+  <code><img title="Vercel" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"></code>
 </p>
 <hr>
 
@@ -88,12 +88,12 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <div>
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=samarth3282&theme=react&border=61dafb&hide_border=true" alt="samarth3282" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    </div>
+    <div>
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=samarth3282&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
+    </div>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>

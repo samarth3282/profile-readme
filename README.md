@@ -52,7 +52,7 @@
 <p align="center">
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
+  <code><img title="Node.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"></code>
   <code><img title="Express.js" height="25" src="images/express-original.svg"></code>
 </p>
 
@@ -69,7 +69,7 @@
 <h3 align="center">Databases</h3>
 <p align="center">
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
+  <code><img title="MongoDB" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"></code>
 </p>
 
 <h3 align="center">Other</h3>

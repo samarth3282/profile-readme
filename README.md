@@ -1,3 +1,6 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=samarth3282.samarth3282">
 
 <h1 align="center">
@@ -53,7 +56,7 @@
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
   <code><img title="Node.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"></code>
-  <code><img title="Express.js" height="25" src="images/express-original.svg"></code>
+  <code><i class="devicon-express-original"></i></code>
 </p>
 
 <h3 align="center">Tools & IDEs</h3>

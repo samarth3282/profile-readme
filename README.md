@@ -135,7 +135,7 @@
             src="https://github-readme-stats.vercel.app/api/pin/?username=samarth3282&repo=DSA&theme=react&border_color=61dafb&border_radius=10"></a>
 
     <!-- Portfolio -->
-    <a align="right" href="https://github.com/samarth3282/awwwards-portfolio" title="My Portfolio"><img
+  <a align="right" href="https://github.com/samarth3282/awwwards-portfolio" title="My Portfolio"><img
             align="right" height="115"
             src="https://github-readme-stats.vercel.app/api/pin/?username=samarth3282&repo=awwwards-portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
@@ -146,7 +146,7 @@
             src="https://github-readme-stats.vercel.app/api/pin/?username=samarth3282&repo=vue-jobs&theme=react&border_color=61dafb&border_radius=10"></a>
 
 
-    <a align="right" href="https://github.com/samarth3282/gsap-cocktails" title="Casa Verde"><img align="right"
+  <a align="right" href="https://github.com/samarth3282/gsap-cocktails" title="Casa Verde"><img align="right"
             height="115"
             src="https://github-readme-stats.vercel.app/api/pin/?username=samarth3282&repo=gsap-cocktails&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>

@@ -1,7 +1,5 @@
 # Samarth Patel
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=samarth3282.samarth3282">
-
 **Computer Science Engineering Student | Full-Stack Developer | Problem Solver**
 
 <p align="center">

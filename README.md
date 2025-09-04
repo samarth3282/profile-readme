@@ -28,8 +28,10 @@ I am a dedicated Computer Science Engineering student at Nirma University, passi
 **Current Focus:**
 - Pursuing B.Tech in Computer Science and Engineering at Nirma University
 - Developing full-stack web applications with modern technologies
-- Building E-Commerce solutions using Django framework
+<!-- - Building E-Commerce solutions using Django framework -->
+- Building Google Drive CLone
 - Enhancing problem-solving skills through competitive programming
+- Learning Generative AI with RAG, LangChain
 
 **Contact:** [samarthnimeshkumarpatel@gmail.com](mailto:samarthnimeshkumarpatel@gmail.com)
 
@@ -60,6 +62,8 @@ I am a dedicated Computer Science Engineering student at Nirma University, passi
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <!-- <img src="https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vue&logoColor=green" alt="Vue"> -->
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
     <!-- <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"> -->
 </p>
